@@ -1,0 +1,45 @@
+# R and RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# R Markdown
+*.html
+*.pdf
+*_cache/
+*_files/
+
+# Data files (large CSV files)
+*.csv
+*.xlsx
+*.xls
+!sample_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Logs
+*.log
+
+# RStudio project files (optional - uncomment if needed)
+# *.Rproj
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md

@@ -1,0 +1,41 @@
+# R Package Dependencies for Cyclistic Bike-Share Analysis
+
+# Core tidyverse packages
+tidyverse    # Meta-package for data science workflow
+dplyr        # Data manipulation
+ggplot2      # Data visualization
+readr        # Reading rectangular data
+
+# Date and time handling
+lubridate    # Dates and times made easy
+
+# Data exploration and cleaning
+skimr        # Compact and flexible summaries
+janitor      # Simple tools for cleaning data
+
+# String manipulation
+stringr      # String operations
+
+# R Markdown and reporting
+rmarkdown    # Dynamic documents
+knitr        # Report generation
+
+## Installation Instructions
+
+# To install all required packages at once, run:
+install.packages(c(
+  "tidyverse",
+  "readr", 
+  "ggplot2",
+  "lubridate",
+  "skimr",
+  "janitor",
+  "stringr",
+  "dplyr",
+  "rmarkdown",
+  "knitr"
+))
+
+# Or install the tidyverse meta-package which includes most dependencies:
+install.packages("tidyverse")
+install.packages(c("skimr", "janitor"))
