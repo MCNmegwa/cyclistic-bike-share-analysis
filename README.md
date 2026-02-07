@@ -244,9 +244,9 @@ This project was completed as part of the **Google Data Analytics Professional C
 
 **Miracle Nmegwa**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@MCNmegwa](https://github.com/MCNmegwa)
+- LinkedIn: [Miracle Nmegwa](https://linkedin.com/in/miracle-nmegwa)
+- Email: nmegwamiracle@gmail.com
 
 ## 📄 License
 
