@@ -6,7 +6,7 @@
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
+- [Overview](#🎯overview)
 - [Business Task](#business-task)
 - [Data Source](#data-source)
 - [Tools & Technologies](#tools--technologies)
