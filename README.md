@@ -5,6 +5,8 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge)
 
+![Dashboard Preview](Cyclistic_Bike_Share_Dashboard.jpeg)
+
 ## 📋 Table of Contents
 - [Overview](#🎯overview)
 - [Business Task](#business-task)
